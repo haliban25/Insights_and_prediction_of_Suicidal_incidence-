@@ -15,6 +15,11 @@ This Data set includes Suicidal data of 1979 to 2016 of various country & their 
 There can be many reason behind Suicide. But Mostly I can feel it as an expression of poor mental health. Due to running pandemic many people are writing about mental health, So I thought to explore about past suicidal rate.
 I presented here, some of relations between year, age,gender and so on... I had an idea to fit a model to predict the upcoming scenario.
 
+## What I did
+- Observe the Data set
+- Handle the missing Field
+- Explore Insight
+
 ## Insights Explored :
 - Year vs number of suicidal incidence based on gender
 - Suicidal incidence based on age & correlation with gender
